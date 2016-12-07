@@ -1,0 +1,55 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="397963719"/>
+    <file name="index.css" crc="85221642" ref="index"/>
+    <file name="iefonts_index.css" crc="4261145475" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="form_check.php" crc="4066397928" ref="index"/>
+    <file name="form_throttle.php" crc="3962765407" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="form-u177.php" crc="107761353" ref="index"/>
+    <file name="form-u132.php" crc="4230551071" ref="index"/>
+    <file name="form-u328.php" crc="348506651" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="399289-74037.jpg" crc="4083900601" ref="index"/>
+    <file name="u90-grad.png" crc="500984554" ref="index"/>
+    <file name="u201-17.png" crc="3927288285" ref="index"/>
+    <file name="u201-17-r.png" crc="3933177754" ref="index"/>
+    <file name="u201-17-m.png" crc="4045657120" ref="index"/>
+    <file name="u201-17-fs.png" crc="183456844" ref="index"/>
+    <file name="u159-17.png" crc="3927288285" ref="index"/>
+    <file name="u159-17-r.png" crc="3933177754" ref="index"/>
+    <file name="u159-17-m.png" crc="4045657120" ref="index"/>
+    <file name="u159-17-fs.png" crc="183456844" ref="index"/>
+    <file name="u221-full.png" crc="4267266991" ref="index"/>
+    <file name="car (2)-u234.png" crc="196047455" ref="index"/>
+    <file name="u218-full.png" crc="4267266991" ref="index"/>
+    <file name="1392138400_document_text_accept-u222.png" crc="242305801" ref="index"/>
+    <file name="1393709569_138-u228.png" crc="4068691671" ref="index"/>
+    <file name="maney-u240.png" crc="101152379" ref="index"/>
+    <file name="wide-wallpaper-1920x1200-042-u204-fr.jpg" crc="529430079" ref="index"/>
+    <file name="izvest.png" crc="4156352716" ref="index"/>
+    <file name="vtor.png" crc="3983555118" ref="index"/>
+    <file name="grav.png" crc="99132490" ref="index"/>
+    <file name="granit.png" crc="4044907990" ref="index"/>
+    <file name="graviy.png" crc="174156077" ref="index"/>
+    <file name="2-1-u285-fr.jpg" crc="133502405" ref="index"/>
+    <file name="u330-17.png" crc="3927288285" ref="index"/>
+    <file name="u330-17-r.png" crc="3933177754" ref="index"/>
+    <file name="u330-17-m.png" crc="4045657120" ref="index"/>
+    <file name="u330-17-fs.png" crc="183456844" ref="index"/>
+  </folder>
+  <file name="index.html" crc="419509457" mt="1394104577312" redirect="true"/>
+</manifest>
